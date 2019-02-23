@@ -4,3 +4,4 @@ this is second commit test
 - feature-A
 - fix -B
 - feature-C
+- feature-D
